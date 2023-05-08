@@ -1,5 +1,5 @@
 {
-  "name": "zrender",
+  "name": "@sryoung-br/zrender",
   "version": "5.4.3",
   "description": "A lightweight graphic library providing 2d draw for Apache ECharts",
   "keywords": [
